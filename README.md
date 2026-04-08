@@ -52,14 +52,14 @@ This project bridges AI research and clinical utility — enabling fast, interpr
 
 ## ✨ Features
 
-- 🧬 **Histopathology Classification** — benign vs. malignant from whole-slide image patches
-- ⚡ **EfficientNet Transfer Learning** — fine-tuned with class balancing and data augmentation
-- 🌐 **Live Streamlit App** — interactive UI for image upload and real-time prediction
-- ☁️ **Azure Container Instance** — cloud-hosted container accessible at a public endpoint
-- 🔗 **ngrok Tunneling** — expose local port 8080 for external access during dev/testing
-- 📊 **Grafana Dashboard** — local monitoring of app metrics via Docker Compose
-- 🔁 **CI-Tested Pipeline** — `git push` to `main` triggers GitHub Actions validation
-- 🗂️ **Class Index Mapping** — JSON-based label decoding for clean output
+- 🧬 **Histopathology Classification** - benign vs. malignant from whole-slide image patches
+- ⚡ **EfficientNet Transfer Learning** - fine-tuned with class balancing and data augmentation
+- 🌐 **Live Streamlit App** - interactive UI for image upload and real-time prediction
+- ☁️ **Azure Container Instance** - cloud-hosted container accessible at a public endpoint
+- 🔗 **ngrok Tunneling** - expose local port 8080 for external access during dev/testing
+- 📊 **Grafana Dashboard** - local monitoring of app metrics via Docker Compose
+- 🔁 **CI-Tested Pipeline** - `git push` to `main` triggers GitHub Actions validation
+- 🗂️ **Class Index Mapping** - JSON-based label decoding for clean output
 
 ---
 
