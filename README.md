@@ -63,6 +63,11 @@ This project bridges AI research and clinical utility — enabling fast, interpr
 
 ---
 
+## Screenshots
+![Interface Screenshot](screenshots/interface.png)
+![Grafana Screenshot](screenshots/grafana.png)
+
+---
 ## 🏗️ Architecture
 
 ```
